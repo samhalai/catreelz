@@ -1,1 +1,1 @@
-Insert some clever text here.\n
+Basic v0.1 to get quick and dirty feedback
